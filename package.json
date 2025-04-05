@@ -1,0 +1,14 @@
+{
+  "name": "react-dummy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "vite": "^6.2.5"
+  }
+}
